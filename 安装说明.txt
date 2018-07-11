@@ -1,0 +1,10 @@
+MP16-999-2P94-6338-2254
+
+
+安装方法：
+
+正常流程安装Mindjet_MindManager_2016_Trial_32.exe
+
+安装完成后不要打开，用文件夹中的MindManager.exe替换安装路径下的MindManager.exe
+
+打开软件提示30天试用，选择输入密钥，复制上述密钥粘贴即可
